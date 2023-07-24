@@ -18,4 +18,7 @@ installing ShadowDP worked per instructions
 
 ## Concerns ##
 The CPA-Checker is very important and necessary for this code to run. It is available on github, which I am concerned not "reliable". If this github goes away, this program - scripts will not work. According to this.....
+
 _As pre-compiled CPA-Checker binaries are relatively large, we don't include them as part of this project, you'll have to download them yourself._
+
+Even if using "Docker", the docker image still has to go out and find that github.
