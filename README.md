@@ -25,7 +25,7 @@ Even if using "Docker", the docker image still has to go out and find that githu
 
 ## Problem with Docker ##
 
-<div>
+<rawtext>
 docker build -t shadowdp .
 [+] Building 7.8s (11/15)                                                                                      docker:desktop-linux
  => [internal] load build definition from Dockerfile                                                                           0.0s
@@ -95,4 +95,4 @@ Dockerfile:25
   33 |     
 --------------------
 ERROR: failed to solve: process "/bin/sh -c apt-get update -y &&     mkdir -p /usr/share/man/man1 &&     apt-get install -y --no-install-recommends     unzip     git     ant     openjdk-11-jdk-headless" did not complete successfully: exit code: 100
-</div>
+</rawtext>
