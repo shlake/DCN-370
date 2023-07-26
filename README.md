@@ -16,6 +16,8 @@ No documentation of what to do with the files, maybe it is the readme?
 ## Manual Install ##
 installing ShadowDP worked per instructions
 
+But could not get it to "run" because the CPA-Checker (see above) would not install.
+
 ## Concerns ##
 The CPA-Checker is very important and necessary for this code to run. It is available on github, which I am concerned not "reliable". If this github goes away, this program - scripts will not work. According to this.....
 
